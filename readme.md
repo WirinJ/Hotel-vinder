@@ -20,4 +20,5 @@
 https://docs.djangoproject.com/en/4.0/howto/initial-data/<br/>
 https://docs.djangoproject.com/en/4.0/topics/db/examples/many_to_one/<br/>
 https://docs.djangoproject.com/en/4.0/ref/templates/language/<br/>
+https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Testing<br/>
 https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Admin_site
