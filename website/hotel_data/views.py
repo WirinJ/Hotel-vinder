@@ -12,9 +12,9 @@ def index(request):
     }
     return render(request, 'index.html', context)
 
-
 def hotels(request):
-    city_id = request.GET.get('city_id')
+    # Grab query parameter
+    city_id = request.GET.get('city_id') 
     hotel_list = Hotel.objects.filter(city_id = city_id)
     context = {
         'hotel_list': hotel_list,
