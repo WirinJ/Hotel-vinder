@@ -1,0 +1,1606 @@
+[
+    {
+        "model": "hotel_data.City",
+        "fields": {
+            "name": "Amsterdam"
+        }
+    },
+    {
+        "model": "hotel_data.City",
+        "fields": {
+            "name": "Antwerpen"
+        }
+    },
+    {
+        "model": "hotel_data.City",
+        "fields": {
+            "name": "Athene"
+        }
+    },
+    {
+        "model": "hotel_data.City",
+        "fields": {
+            "name": "Bangkok"
+        }
+    },
+    {
+        "model": "hotel_data.City",
+        "fields": {
+            "name": "Barcelona"
+        }
+    },
+    {
+        "model": "hotel_data.City",
+        "fields": {
+            "name": "Berlijn"
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Ibis Amsterdam Airport",
+            "hotel_tag": "AMS01",
+            "city_id": 1
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Novotel Amsterdam Airport",
+            "hotel_tag": "AMS02",
+            "city_id": 1
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Express by Holiday Inn",
+            "hotel_tag": "ANT01",
+            "city_id": 2
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Eden",
+            "hotel_tag": "ANT02",
+            "city_id": 2
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Astoria",
+            "hotel_tag": "ANT04",
+            "city_id": 2
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Golden Tulip Antwerp Centre",
+            "hotel_tag": "ANT05",
+            "city_id": 2
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Residence",
+            "hotel_tag": "ANT06",
+            "city_id": 2
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Carlton",
+            "hotel_tag": "ANT07",
+            "city_id": 2
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Park Plaza Astrid Antwerp",
+            "hotel_tag": "ANT08",
+            "city_id": 2
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Antwerp Diamond",
+            "hotel_tag": "ANT09",
+            "city_id": 2
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Ramada Plaza",
+            "hotel_tag": "ANT10",
+            "city_id": 2
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Agora",
+            "hotel_tag": "ANT11",
+            "city_id": 2
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Radisson SAS Park Lane",
+            "hotel_tag": "ANT12",
+            "city_id": 2
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Tourist",
+            "hotel_tag": "ANT13",
+            "city_id": 2
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Ibis Antwerpen Centrum",
+            "hotel_tag": "ANT14",
+            "city_id": 2
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Carlton",
+            "hotel_tag": "ANT77",
+            "city_id": 2
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Astoria",
+            "hotel_tag": "ANT78",
+            "city_id": 2
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Carlton",
+            "hotel_tag": "ANT79",
+            "city_id": 2
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Express by Holiday Inn",
+            "hotel_tag": "ANT89",
+            "city_id": 2
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Ramada Plaza",
+            "hotel_tag": "ANT90",
+            "city_id": 2
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Express by Holiday Inn",
+            "hotel_tag": "ANT92",
+            "city_id": 2
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Carlton",
+            "hotel_tag": "ANT93",
+            "city_id": 2
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Corinthia Antwerp",
+            "hotel_tag": "ANT94",
+            "city_id": 2
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Corinthia Antwerp",
+            "hotel_tag": "ANT95",
+            "city_id": 2
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Express by Holiday Inn",
+            "hotel_tag": "ANT96",
+            "city_id": 2
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Astoria",
+            "hotel_tag": "ANT97",
+            "city_id": 2
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Express by Holiday Inn",
+            "hotel_tag": "ANT98",
+            "city_id": 2
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Express by Holiday Inn",
+            "hotel_tag": "ANT99",
+            "city_id": 2
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Evripides",
+            "hotel_tag": "ATH01",
+            "city_id": 3
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Amaryllis",
+            "hotel_tag": "ATH02",
+            "city_id": 3
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Amaryllis Inn",
+            "hotel_tag": "ATH03",
+            "city_id": 3
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Apollo",
+            "hotel_tag": "ATH04",
+            "city_id": 3
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Esperia Palace",
+            "hotel_tag": "ATH05",
+            "city_id": 3
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Fresh",
+            "hotel_tag": "ATH06",
+            "city_id": 3
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Dorian Inn",
+            "hotel_tag": "ATH07",
+            "city_id": 3
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Candia",
+            "hotel_tag": "ATH08",
+            "city_id": 3
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Stanley",
+            "hotel_tag": "ATH10",
+            "city_id": 3
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "St. George Lycabettus",
+            "hotel_tag": "ATH14",
+            "city_id": 3
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Narai",
+            "hotel_tag": "BAK20",
+            "city_id": 4
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Windsor Suites",
+            "hotel_tag": "BAK21",
+            "city_id": 4
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Swissotel Nai Lert Park Bangkok",
+            "hotel_tag": "BAK22",
+            "city_id": 4
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Holiday Inn Silom",
+            "hotel_tag": "BAK23",
+            "city_id": 4
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Triple Two Silom (222)",
+            "hotel_tag": "BAK24",
+            "city_id": 4
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Millennium Hilton Bangkok",
+            "hotel_tag": "BAK25",
+            "city_id": 4
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Windsor Suites",
+            "hotel_tag": "BAK31",
+            "city_id": 4
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Narai",
+            "hotel_tag": "BAK70",
+            "city_id": 4
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Windsor Suites",
+            "hotel_tag": "BAK71",
+            "city_id": 4
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Swissotel Nai Lert Park Bangkok",
+            "hotel_tag": "BAK72",
+            "city_id": 4
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Holiday Inn Silom",
+            "hotel_tag": "BAK73",
+            "city_id": 4
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Triple Two Silom (222)",
+            "hotel_tag": "BAK74",
+            "city_id": 4
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Millennium Hilton Bangkok",
+            "hotel_tag": "BAK75",
+            "city_id": 4
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Windsor Suites",
+            "hotel_tag": "BAK81",
+            "city_id": 4
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Rialto",
+            "hotel_tag": "BAR01",
+            "city_id": 5
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Adagio",
+            "hotel_tag": "BAR02",
+            "city_id": 5
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Comercio",
+            "hotel_tag": "BAR03",
+            "city_id": 5
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "AutoHogar",
+            "hotel_tag": "BAR04",
+            "city_id": 5
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Arc la Rambla",
+            "hotel_tag": "BAR05",
+            "city_id": 5
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Catalonia Aragon",
+            "hotel_tag": "BAR06",
+            "city_id": 5
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Borne",
+            "hotel_tag": "BAR07",
+            "city_id": 5
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Santa Marta",
+            "hotel_tag": "BAR08",
+            "city_id": 5
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Expo",
+            "hotel_tag": "BAR09",
+            "city_id": 5
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Junior",
+            "hotel_tag": "BAR10",
+            "city_id": 5
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Amrey Diagonal",
+            "hotel_tag": "BAR11",
+            "city_id": 5
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Principal",
+            "hotel_tag": "BAR12",
+            "city_id": 5
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "AB Viladomat",
+            "hotel_tag": "BAR13",
+            "city_id": 5
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Front Maritim",
+            "hotel_tag": "BAR14",
+            "city_id": 5
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Citypark Nicaragua",
+            "hotel_tag": "BAR15",
+            "city_id": 5
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Catalonia Atenas",
+            "hotel_tag": "BAR16",
+            "city_id": 5
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Rege",
+            "hotel_tag": "BAR17",
+            "city_id": 5
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Decimononico/Pescateria",
+            "hotel_tag": "BAR18",
+            "city_id": 5
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Silken Concordia",
+            "hotel_tag": "BAR19",
+            "city_id": 5
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Gutenberg",
+            "hotel_tag": "BAR20",
+            "city_id": 5
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Catalonia Princesa",
+            "hotel_tag": "BAR21",
+            "city_id": 5
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Santa Monica",
+            "hotel_tag": "BAR22",
+            "city_id": 5
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Catalunya",
+            "hotel_tag": "BAR23",
+            "city_id": 5
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Medium Monegal",
+            "hotel_tag": "BAR24",
+            "city_id": 5
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Hesperia Metropol",
+            "hotel_tag": "BAR25",
+            "city_id": 5
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Torre Catalunya",
+            "hotel_tag": "BAR26",
+            "city_id": 5
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Sagrada Familia",
+            "hotel_tag": "BAR27",
+            "city_id": 5
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Del Comte",
+            "hotel_tag": "BAR28",
+            "city_id": 5
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Citypark Pelayo",
+            "hotel_tag": "BAR29",
+            "city_id": 5
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Habitat Sky",
+            "hotel_tag": "BAR30",
+            "city_id": 5
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Amister",
+            "hotel_tag": "BAR31",
+            "city_id": 5
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Acevi Villarroel",
+            "hotel_tag": "BAR32",
+            "city_id": 5
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Calabria",
+            "hotel_tag": "BAR33",
+            "city_id": 5
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Rialto",
+            "hotel_tag": "BAR34",
+            "city_id": 5
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Ramblas",
+            "hotel_tag": "BAR35",
+            "city_id": 5
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Suizo",
+            "hotel_tag": "BAR36",
+            "city_id": 5
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Principal",
+            "hotel_tag": "BAR37",
+            "city_id": 5
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "H10 Marina Barcelona",
+            "hotel_tag": "BAR38",
+            "city_id": 5
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Catalonia Berna",
+            "hotel_tag": "BAR39",
+            "city_id": 5
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "America",
+            "hotel_tag": "BAR40",
+            "city_id": 5
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Icaria",
+            "hotel_tag": "BAR41",
+            "city_id": 5
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Park",
+            "hotel_tag": "BAR42",
+            "city_id": 5
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Sansi Diputacio",
+            "hotel_tag": "BAR43",
+            "city_id": 5
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Condestable",
+            "hotel_tag": "BAR44",
+            "city_id": 5
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Confortel Almirante",
+            "hotel_tag": "BAR45",
+            "city_id": 5
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Barcelona Princess",
+            "hotel_tag": "BAR46",
+            "city_id": 5
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Catal. Duques de Bergara",
+            "hotel_tag": "BAR47",
+            "city_id": 5
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Grupotel Gravina",
+            "hotel_tag": "BAR48",
+            "city_id": 5
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Axel",
+            "hotel_tag": "BAR49",
+            "city_id": 5
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Avenida Palace",
+            "hotel_tag": "BAR50",
+            "city_id": 5
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Rivoli Ramblas",
+            "hotel_tag": "BAR51",
+            "city_id": 5
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "1898",
+            "hotel_tag": "BAR52",
+            "city_id": 5
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Casa Fuster",
+            "hotel_tag": "BAR53",
+            "city_id": 5
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Adagio",
+            "hotel_tag": "BAR54",
+            "city_id": 5
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Comercio",
+            "hotel_tag": "BAR55",
+            "city_id": 5
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Catalonia Aragon",
+            "hotel_tag": "BAR56",
+            "city_id": 5
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Santa Marta",
+            "hotel_tag": "BAR57",
+            "city_id": 5
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Napols",
+            "hotel_tag": "BAR58",
+            "city_id": 5
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Catalonia Atenas",
+            "hotel_tag": "BAR59",
+            "city_id": 5
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Catalonia Princesa",
+            "hotel_tag": "BAR60",
+            "city_id": 5
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Rialto",
+            "hotel_tag": "BAR61",
+            "city_id": 5
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Ramblas",
+            "hotel_tag": "BAR62",
+            "city_id": 5
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Catalonia Berna",
+            "hotel_tag": "BAR63",
+            "city_id": 5
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Cristal Palace",
+            "hotel_tag": "BAR64",
+            "city_id": 5
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Grand Marina",
+            "hotel_tag": "BAR65",
+            "city_id": 5
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "AB Skipper",
+            "hotel_tag": "BAR66",
+            "city_id": 5
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Abrevadero",
+            "hotel_tag": "BAR67",
+            "city_id": 5
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Transit",
+            "hotel_tag": "BAR68",
+            "city_id": 5
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Barcelona Ramblas",
+            "hotel_tag": "BAR69",
+            "city_id": 5
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Glories",
+            "hotel_tag": "BAR70",
+            "city_id": 5
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Avinyo",
+            "hotel_tag": "BAR71",
+            "city_id": 5
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "California",
+            "hotel_tag": "BAR72",
+            "city_id": 5
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Guardia",
+            "hotel_tag": "BAR73",
+            "city_id": 5
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Del Mar",
+            "hotel_tag": "BAR74",
+            "city_id": 5
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Tryp Apolo",
+            "hotel_tag": "BAR75",
+            "city_id": 5
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "H10 Montcada",
+            "hotel_tag": "BAR76",
+            "city_id": 5
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Gotico",
+            "hotel_tag": "BAR77",
+            "city_id": 5
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Gran Barcino",
+            "hotel_tag": "BAR78",
+            "city_id": 5
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Condes de Barcelona",
+            "hotel_tag": "BAR79",
+            "city_id": 5
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Corders",
+            "hotel_tag": "BAR80",
+            "city_id": 5
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Tiradors",
+            "hotel_tag": "BAR81",
+            "city_id": 5
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Confortel Auditori",
+            "hotel_tag": "BAR82",
+            "city_id": 5
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Gran Ronda",
+            "hotel_tag": "BAR83",
+            "city_id": 5
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Catalonia Ramblas",
+            "hotel_tag": "BAR84",
+            "city_id": 5
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Catalonia Albinoni",
+            "hotel_tag": "BAR85",
+            "city_id": 5
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Expo",
+            "hotel_tag": "BAR86",
+            "city_id": 5
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Calabria",
+            "hotel_tag": "BAR87",
+            "city_id": 5
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Almirante Confortel",
+            "hotel_tag": "BAR88",
+            "city_id": 5
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Evenia Rocafort",
+            "hotel_tag": "BAR89",
+            "city_id": 5
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Avinyo",
+            "hotel_tag": "BAR90",
+            "city_id": 5
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Espana",
+            "hotel_tag": "BAR91",
+            "city_id": 5
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Marina",
+            "hotel_tag": "BAR92",
+            "city_id": 5
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Amrey Sant Pau",
+            "hotel_tag": "BAR93",
+            "city_id": 5
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Barcelona Center",
+            "hotel_tag": "BAR94",
+            "city_id": 5
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Lami",
+            "hotel_tag": "BAR95",
+            "city_id": 5
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Ciutat de Barcelona",
+            "hotel_tag": "BAR96",
+            "city_id": 5
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Bel Art",
+            "hotel_tag": "BAR97",
+            "city_id": 5
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Barcelona Catedral",
+            "hotel_tag": "BAR98",
+            "city_id": 5
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Aston",
+            "hotel_tag": "BAR99",
+            "city_id": 5
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Nouvel",
+            "hotel_tag": "BARA1",
+            "city_id": 5
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Lleo",
+            "hotel_tag": "BARA2",
+            "city_id": 5
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Santa Marta",
+            "hotel_tag": "BARA3",
+            "city_id": 5
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Avinyo",
+            "hotel_tag": "BARA4",
+            "city_id": 5
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Rialto",
+            "hotel_tag": "BARA5",
+            "city_id": 5
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "H10 Universitat",
+            "hotel_tag": "BARA6",
+            "city_id": 5
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Del Mar",
+            "hotel_tag": "BARA7",
+            "city_id": 5
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Majestic",
+            "hotel_tag": "BARA8",
+            "city_id": 5
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "H10 Raco del Pi",
+            "hotel_tag": "BARA9",
+            "city_id": 5
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "NH Duc de la Victoria",
+            "hotel_tag": "BARB1",
+            "city_id": 5
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Colon",
+            "hotel_tag": "BARB2",
+            "city_id": 5
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Arago 565",
+            "hotel_tag": "BARB3",
+            "city_id": 5
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Ramblas",
+            "hotel_tag": "BARB4",
+            "city_id": 5
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "NH Les Corts",
+            "hotel_tag": "BARB5",
+            "city_id": 5
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Confortel Barcelona",
+            "hotel_tag": "BARB6",
+            "city_id": 5
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "AB Viladomat",
+            "hotel_tag": "BARB7",
+            "city_id": 5
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Residencia Erasmus Gracia",
+            "hotel_tag": "BARB8",
+            "city_id": 5
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Petit Palace Museum",
+            "hotel_tag": "BARB9",
+            "city_id": 5
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "FC Barcelona-Real in 3*",
+            "hotel_tag": "BARC7",
+            "city_id": 5
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Quality City-East",
+            "hotel_tag": "BER01",
+            "city_id": 6
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Bogota",
+            "hotel_tag": "BER02",
+            "city_id": 6
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Agon Opera am Kurf\u00c3\u00bcrstendamm",
+            "hotel_tag": "BER03",
+            "city_id": 6
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Comfort Weissensee",
+            "hotel_tag": "BER04",
+            "city_id": 6
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Comfort Lichtenberg",
+            "hotel_tag": "BER05",
+            "city_id": 6
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "City Amaryl",
+            "hotel_tag": "BER06",
+            "city_id": 6
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Park Inn Alexanderplatz",
+            "hotel_tag": "BER07",
+            "city_id": 6
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Novotel Dorint am Tiergarten",
+            "hotel_tag": "BER08",
+            "city_id": 6
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Best Western Berlin Mitte",
+            "hotel_tag": "BER09",
+            "city_id": 6
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Berlin Mark",
+            "hotel_tag": "BER10",
+            "city_id": 6
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Sorat Ambassador",
+            "hotel_tag": "BER11",
+            "city_id": 6
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Panorama",
+            "hotel_tag": "BER12",
+            "city_id": 6
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Melia Berlin",
+            "hotel_tag": "BER13",
+            "city_id": 6
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Art'Otel Kudamm",
+            "hotel_tag": "BER14",
+            "city_id": 6
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Lindenberger Hof",
+            "hotel_tag": "BER15",
+            "city_id": 6
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Ramada Plaza",
+            "hotel_tag": "BER16",
+            "city_id": 6
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Innside Premium",
+            "hotel_tag": "BER17",
+            "city_id": 6
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Metropolitan Hansa",
+            "hotel_tag": "BER18",
+            "city_id": 6
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Ellington",
+            "hotel_tag": "BER19",
+            "city_id": 6
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Winter's Berlin",
+            "hotel_tag": "BER20",
+            "city_id": 6
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Estrel",
+            "hotel_tag": "BER21",
+            "city_id": 6
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Citadines",
+            "hotel_tag": "BER22",
+            "city_id": 6
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Villa Kastania",
+            "hotel_tag": "BER23",
+            "city_id": 6
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Domicil",
+            "hotel_tag": "BER24",
+            "city_id": 6
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Holiday Inn Berlin City East",
+            "hotel_tag": "BER25",
+            "city_id": 6
+        }
+    },
+    {
+        "model": "hotel_data.Hotel",
+        "fields": {
+            "name": "Winter's Berlin",
+            "hotel_tag": "BER26",
+            "city_id": 6
+        }
+    }
+]
