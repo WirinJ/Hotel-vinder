@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Hotel locaties per stad</title>
+    <meta name="description" content="Vind de beste hotels in jouw stad."/>
+    <meta name="author" content="Wirin"/>
+    <meta name="keywords" content="hotel,amsterdam,rotterdam,denhaag"/>
+    <style type="text/css">
+        li {
+            font-size: 25px;
+        }
+
+        .styled-table {
+            border-collapse: collapse;
+            margin: 25px 0;
+            font-size: 0.9em;
+            font-family: sans-serif;
+            min-width: 400px;
+            box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+        }
+
+        th {
+            text-align: left;
+        }
+    </style>
+  </head>
+    <body>
+
+        {% if city_list %}
+            <ul>
+                {% for city in city_list %}
+                    <li><a href="/hotels?city_id={{ city.id }}">{{ city.name }}</a></li>
+                {% endfor %}
+            </ul>
+        {% elif hotel_list %}
+            <table class="styled-table">
+                <tr>
+                    <th>Hotel Identifier</th>
+                    <th>Name</th>
+                </tr>
+                {% for hotel in hotel_list %}
+                    <tr>
+                        <td>{{ hotel.hotel_tag }}</td>
+                        <td>{{ hotel.name }}</td>
+                    </tr>
+                {% endfor %}  
+            </table>
+        {% endif %}
+
+    </body>
+</html>
